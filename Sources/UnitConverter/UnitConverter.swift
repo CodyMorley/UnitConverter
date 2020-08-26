@@ -1,4 +1,4 @@
-public class UnitConverter {
+public struct MyUnitConverter {
     /// Just because the struct is public doesn't mean the things in struct are too.
     /// You must mark public anything you want to be externally accessible.
     
